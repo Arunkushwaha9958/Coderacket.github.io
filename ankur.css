@@ -20,6 +20,7 @@ ul{
 
 /* nav bar*/
 .main-nav{
+    background: #0d1124;
     display: flex;
     align-items: center;
     height:60px ;
@@ -51,6 +52,7 @@ ul{
 }
 
 .main-nav ul li a{
+    color: #3e6eea;
     padding-bottom: 2px;
 }
 .menu-btn{
@@ -97,8 +99,8 @@ ul{
     position: relative;
 }
 .container{
-    width: 90%;
-    max-width: 1100px;
+    width: 100%;
+    max-width: 1250px;
     margin: auto;
 }
 
