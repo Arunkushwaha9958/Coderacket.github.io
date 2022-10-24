@@ -345,7 +345,9 @@ p{
     text-align: center;
 }
    
-.testimonial-col{margin: 5px;
+.testimonial-col{
+    height:400px;
+    margin: 5px;
     flex-basis: 44%;
     border-radius: 15px;
     /* margin-bottom: 5%; */
