@@ -187,8 +187,8 @@ font-family:'Poppins', sans-serif;
     
 
     .heading {
-        
-         font-family: 'Poppins', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        font: 700 2em/1 "", sans-serif;
         color: #f5f5f5;
         z-index:1;
         font-family:'Poppins', sans-serif;
@@ -240,6 +240,7 @@ font-family:'Poppins', sans-serif;
         padding: 60px 30px;
         border-radius: 20px;
         z-index: 1;
+         height: 200px;
         transition: 0.35s;
         cursor: pointer;
     }
@@ -251,7 +252,7 @@ font-family:'Poppins', sans-serif;
         text-decoration:none;
         background:linear-gradient(45deg,rgba(173, 225, 235, 0.91),rgb(247, 239, 239),rgb(247, 239, 239),rgb(247, 239, 239),rgb(247, 239, 239),rgb(247, 239, 239),rgba(173, 225, 235, 0.91)) ;       
          text-align: center;
-        height: 150px;
+        height: 200px;
         border-radius: 20px;
         z-index: 1;
         transition: 0.35s;
@@ -293,7 +294,7 @@ font-family:'Poppins', sans-serif;
         text-decoration:none;
         background:linear-gradient(45deg,rgba(173, 225, 235, 0.91),rgb(247, 239, 239),rgb(247, 239, 239),rgb(247, 239, 239),rgb(247, 239, 239),rgb(247, 239, 239),rgba(173, 225, 235, 0.91)) ;       
          text-align: center;
-       
+        height: 200px;
         border-radius: 20px;
         z-index: 1;
         transition: 0.35s;
@@ -312,7 +313,7 @@ font-family:'Poppins', sans-serif;
         border-radius: 20px;
         z-index: 1;
         transition: 0.35s;
-        
+         height: 200px;
         cursor: pointer;
     }
     img{
